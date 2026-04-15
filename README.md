@@ -28,7 +28,7 @@ Currently focused on applying operational experience to technical writing, and p
 
 ## 📂 Table of Contents
 
-### [1. Marine & Logistics Operations](logistics-marine/Ship-to-Shore_LPG_Transfer.md)
+### [1. Marine & Logistics Operations](logistics-marine/Ship-to-shore_LPG_Transfer.md)
 **Focus:** High-pressure ship-to-shore LPG transfer and international maritime safety standards (SIGTTO).
 * Key features: Turtle Diagrams, stakeholder responsibilities, and manifold pressure management.
 
