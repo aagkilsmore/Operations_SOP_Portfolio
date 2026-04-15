@@ -36,11 +36,11 @@ Currently focused on applying operational experience to technical writing, and p
 **Focus:** High-risk manufacturing environments and chemical reaction control.
 * Key features: Flashback prevention, byproduct management, and cylinder integrity checks.
 
-### [3. Asset Integrity & Maintenance Management](asset-management/asset_integrity.md)
+### [3. Asset Integrity & Maintenance Management](Asset-management/asset_integrity.md)
 **Focus:** Strategic facility management using CMMS (eMaint).
 * Key features: Asset criticality ranking, preventive maintenance scheduling, and KPI tracking.
 
-### [4. Crisis Management & Business Continuity](emergency-response/Emergency_response_natural_disasters.md)
+### [4. Crisis Management & Business Continuity](Emergency-response/Emergency_response_natural_disasters.md)
 **Focus:** Protecting personnel and facility assets during natural disasters (Hurricanes/Floods).
 * Key features: Site securing protocols, emergency shutdown (ESD) isolation, and post-disaster recovery logic.
 
